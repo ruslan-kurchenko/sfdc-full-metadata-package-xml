@@ -50,6 +50,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>AuthProvider</name>
     </types>
     <types>
