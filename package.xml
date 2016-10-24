@@ -2,22 +2,6 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>*</members>
-        <name>AccountSettings</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ActionOverride</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ActivitiesSettings</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>AddressSettings</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>AnalyticSnapshot</name>
     </types>
     <types>
@@ -42,10 +26,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>ArticleType</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>AssignmentRules</name>
     </types>
     <types>
@@ -62,31 +42,11 @@
     </types>
     <types>
         <members>*</members>
-        <name>BaseSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>BusinessHoursSettings</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>BusinessProcess</name>
     </types>
     <types>
         <members>*</members>
         <name>CallCenter</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CaseSettings</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ChatterAnswersSettings</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CompanySettings</name>
     </types>
     <types>
         <members>*</members>
@@ -99,14 +59,6 @@
     <types>
         <members>*</members>
         <name>ConnectedApp</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ContractSettings</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CriteriaBasedSharingRule</name>
     </types>
     <types>
         <members>*</members>
@@ -170,10 +122,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>EntitlementSettings</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>EntitlementTemplate</name>
     </types>
     <types>
@@ -194,18 +142,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>Folder</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>FolderShare</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ForecastingSettings</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>Group</name>
     </types>
     <types>
@@ -215,14 +151,6 @@
     <types>
         <members>*</members>
         <name>HomePageLayout</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>IdeasSettings</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>KnowledgeSettings</name>
     </types>
     <types>
         <members>*</members>
@@ -238,10 +166,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>LiveAgentSettings</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>LiveChatAgentConfig</name>
     </types>
     <types>
@@ -254,19 +178,7 @@
     </types>
     <types>
         <members>*</members>
-        <name>Metadata</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>MetadataWithContent</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>MilestoneType</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>MobileSettings</name>
     </types>
     <types>
         <members>*</members>
@@ -278,19 +190,7 @@
     </types>
     <types>
         <members>*</members>
-        <name>OpportunitySettings</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>OwnerSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>PermissionSet</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Picklist</name>
     </types>
     <types>
         <members>*</members>
@@ -299,10 +199,6 @@
     <types>
         <members>*</members>
         <name>PostTemplate</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ProductSettings</name>
     </types>
     <types>
         <members>*</members>
@@ -315,10 +211,6 @@
     <types>
         <members>*</members>
         <name>QuickAction</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>QuoteSettings</name>
     </types>
     <types>
         <members>*</members>
@@ -350,19 +242,7 @@
     </types>
     <types>
         <members>*</members>
-        <name>SearchLayouts</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>SecuritySettings</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>SharingReason</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>SharingRecalculation</name>
     </types>
     <types>
         <members>*</members>
@@ -391,10 +271,6 @@
     <types>
         <members>*</members>
         <name>ValidationRule</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Weblink</name>
     </types>
     <types>
         <members>*</members>
